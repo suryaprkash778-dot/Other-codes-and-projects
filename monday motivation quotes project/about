@@ -1,0 +1,1 @@
+this program will send motivation quote every monday via email, using SMTP and datetime module
